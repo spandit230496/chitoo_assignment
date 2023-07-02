@@ -1,0 +1,14 @@
+table{
+    width: 50%;
+}
+
+table,tr,td{
+    border:1px solid black
+}
+button{
+    background: green;
+    color: white;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+}

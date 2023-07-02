@@ -1,0 +1,17 @@
+.navigation{
+    width: 100%;
+    height: 3rem;
+    background: blue;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    cursor: pointer;
+    
+}
+.navigation a{
+    text-decoration: none;
+    color:white;
+    margin-right: 2rem;
+    font-weight: 700;
+
+}

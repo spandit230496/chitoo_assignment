@@ -1,0 +1,19 @@
+table{
+    width: 10%;
+}
+.mat-elevation-z8{
+    width: 10%;
+}
+table,tr,td{
+    border:1px solid black
+}
+button{
+    background: white;
+    color: grey;
+    border-radius: 0.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0.5px solid black;
+    margin: 1rem;
+}
